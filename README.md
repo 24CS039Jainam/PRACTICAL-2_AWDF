@@ -30,7 +30,7 @@ Then open the URL shown by Vite, normally:
 
 http://localhost:5173
 
-##Key Points
+## Key Points
 
 - BrowserRouter enables client-side routing.
 - Routes contains Route definitions.
